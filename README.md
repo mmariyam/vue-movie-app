@@ -22,3 +22,13 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/vue-movie-app/main/1.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/vue-movie-app/main/2.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/vue-movie-app/main/3.JPG)
